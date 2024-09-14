@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [5.0.0](https://github.com/bearcove/merde/compare/merde-v4.0.5...merde-v5.0.0) - 2024-09-14
+
+### Added
+
+- Introduce OwnedValueDeserialize
+- [**breaking**] Introduce WithLifetime trait
+
+### Other
+
+- Introduce WithLifetime trait (thanks @JaSpa)
+- Showcase 'impl is not general enough' problem
+
 ## [4.0.5](https://github.com/bearcove/merde/compare/merde-v4.0.4...merde-v4.0.5) - 2024-09-14
 
 ### Other
